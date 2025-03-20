@@ -19,7 +19,7 @@ function App() {
   }
 
   function onClick(){
-    alert("Hello")
+    alert("Busqueda del usuario: "+ search)
   }
 
   /*
